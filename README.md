@@ -1,6 +1,8 @@
-# A Dynamic Recipe Cookbook with Obsidian and Claude
+# A Dynamic Cookbook Creator with Obsidian and Claude
 
 Using Obsidian, its dataview plugin and Claude to pull together your favourite recipes into a dynamically indexed cookbook, that lives on your own computer in a portable format, but can be shared anywhere. So you can have your cake AND eat it.
+
+![Cookbook Example](cookbook_md_example.png)
 
 ## Repository Contents
 
@@ -12,6 +14,7 @@ cookbook-creator-with-claude-and-obsidian/
     └── recipe/
         └── SKILL.md     # Claude Code skill — copy this into ~/.claude/skills/recipe/
 ```
+
 
 ## Components
 
