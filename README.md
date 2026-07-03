@@ -62,7 +62,7 @@ That's it. You are all set to add recipes into your vault.
 
 To use Claude's new recipe skill:
 
-1. Start a Claude Code conversation and give it your recipe source — paste in text from a webpage, attach a photo of a cookbook page, or type out your own notes. Then ask Claude to format it as a recipe, e.g. *"Convert this into a recipe file."*
+1. Start a Claude Code conversation and give it your recipe source — paste in text from a webpage, attach a photo of a cookbook page, or type out your own notes. If the file is not in English, ask Claude to translate it. Then ask Claude to format it as a recipe, e.g. *"Convert this into a recipe file."*
 2. Save the resulting file in your Obsidian vault. As long as it has the `recipe` tag, `Cookbook.md` will pick it up automatically.
 
 ## Recipe File Format
